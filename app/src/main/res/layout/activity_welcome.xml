@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FDFFC5"
+    tools:context=".WelcomeActivity">
+
+    <TextView
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/visiting_puerto_rico"
+        android:gravity="center"
+        android:fontFamily="cursive"
+        android:textSize="30sp"
+        android:textColor="#000"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/h_0"
+        android:layout_weight="5"
+        android:src="@drawable/puerto_rico2"
+        />
+    <TextView
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/h_0"
+        android:text="@string/see"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:fontFamily="cursive"
+        android:textSize="@dimen/ts_30"
+        android:textColor="@color/black"
+        />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="@dimen/h_0"
+        android:background="@color/colorPrimaryDark">
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/take_me_there"
+            android:layout_gravity="center"
+            android:textColor="#fff"
+            android:background="?android:attr/selectableItemBackground"
+            android:textSize="@dimen/ts_25"
+            android:id="@+id/take"
+            android:clickable="true"
+
+            />
+    </FrameLayout>
+
+
+</LinearLayout>

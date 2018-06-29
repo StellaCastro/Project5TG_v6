@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="secret_color">#FF9CC2</color>
+    <color name="historica_color">#DA98FF</color>
+    <color name="restaurnt_color">#98B0FF</color>
+    <color name="music_color">#B3FFAE</color>
+    <color name="sand">#FEFFA6</color>
+    <color name="black">#000</color>
+</resources>

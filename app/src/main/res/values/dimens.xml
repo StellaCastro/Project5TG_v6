@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="h_0">0dp</dimen>
+    <dimen name="ts_30">30sp</dimen>
+    <dimen name="w_0">0dp</dimen>
+    <dimen name="minh_100">100dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="ts_18">18sp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="ts_25">25sp</dimen>
+</resources>

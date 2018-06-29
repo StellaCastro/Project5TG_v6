@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project5TG</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restaurant_tittle">Dinning</string>
+    <string name="historic_tittle">History</string>
+    <string name="natural_tittle">Nature</string>
+    <string name="music_tittle">Music</string>
+    <string name="welcome_tittle">Welcome</string>
+    <string name="visiting_puerto_rico">Visiting Puerto Rico?</string>
+    <string name="take_me_there">Take me there!</string>
+    <string name="see">See what you are missing!</string>
+</resources>
